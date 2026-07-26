@@ -1,0 +1,24 @@
+{
+  "editorLastVersion": "0.6.25a",
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "blockedList": {},
+  "serverSettings": {
+    "enx-ext-13.enx.host": {}
+  },
+  "editorSelectMouseButton": 0.0,
+  "titleScreenButton": true,
+  "keybinds": {},
+  "friendSettings": {},
+  "editorDragMouseButton": -1.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorRecentProjects": [
+    "C:\\Users\\Leo\\Downloads\\mag.cpmproject"
+  ],
+  "safetyProfiles": {},
+  "friendList": {},
+  "selectedModel": "gdgd.cpmmodel"
+}

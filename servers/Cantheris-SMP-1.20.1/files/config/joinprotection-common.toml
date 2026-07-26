@@ -1,0 +1,6 @@
+
+[General]
+	#Protection duration in seconds after joining or respawning.
+	#Range: 0 ~ 60
+	protectionDuration = 3
+
